@@ -1,2 +1,1 @@
-# Tindog
-Tindog Online
+TinDog Starting Files
